@@ -1,16 +1,12 @@
 
 
-<h1 align="center"> 👋 LIL HUY - THE CODING CAT<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-   <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
-</p>
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lilhuy0405/" target="_blank">
+  <a href="https://www.linkedin.com/in/binh-duc-731682170/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/luuhuy04052001" target="_blank">
+  <a href="https://www.facebook.com/ducbinh9418" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
   
