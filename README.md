@@ -24,7 +24,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binhtruong9418&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/binhtruong9418/binhtruong9418/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/binhtruong9418/binhtruong9418/blob/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/binhtruong9418/binhtruong9418/blob/output/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://github.com/binhtruong9418/binhtruong9418/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
