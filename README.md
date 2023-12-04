@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./myname.svg" alt="Vương Hà Thành" />
+  <img src="./myname.svg" alt="Trương Đức Bình" />
 </h1>
 
 <div id="badges" align="center">
@@ -19,17 +19,14 @@
 
 <h2 align="left" font-weight="bold">About me</h2>  
 
-- 👋 Hi, I’m @lilhuy0405 (Lưu Huy) the coding cat :3
-- 👀 I'm a JavaScript hater but as you have seen the stats above. I'm using JavaScript in most of my projects :vv
-- I'm currently learning Blockchain, DevOps, PHP Laravel (another thing that i hate :<) and of course JS :D. I'm working as a full stack developper 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilhuy0405&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binhtruong9418&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/binhtruong9418/binhtruong9418/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/binhtruong9418/binhtruong9418/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/binhtruong9418/binhtruong9418/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
@@ -55,10 +52,6 @@
 
 ------
 
-Credit: [lilhuy](https://github.com/lilhuy0405)
+Credit: [binhtruong](https://github.com/binhtruong9418)
 
-Last Edited on: 07/03/2023
-<!---
-lilhuy0405/lilhuy0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Last Edited on: 04/12/2023
