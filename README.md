@@ -1,6 +1,6 @@
-
-
-
+<h1 align="center">
+  <img src="./name.svg" alt="Trương Đức Bình" />
+</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/binh-duc-731682170/" target="_blank">
